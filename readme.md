@@ -1,2 +1,2 @@
 Projeto da Alura
-Desafio: incriptografar textos
+Desafio: criptografar textos
